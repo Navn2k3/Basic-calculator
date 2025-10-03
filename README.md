@@ -2,7 +2,6 @@
 
 A simple and functional calculator built using HTML, CSS, and JavaScript as part of an internship project. [cite_start]The goal was to create a user-friendly calculator that performs basic arithmetic operations. [cite: 5, 6]
 
-![image](https://user-images.githubusercontent.com/100494799/202888470-21722956-f0cf-482a-81a8-35a14d1d1f27.png)
 
 ## ✨ Features
 
